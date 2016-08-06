@@ -1,0 +1,13 @@
+#image{
+	width: 100px;
+	height: 100px;
+	left: 15px;
+	
+}
+#text{
+	width: 45%;
+	height: 30%;
+	display: inline-block;
+	right: 15px;
+	border: solid 1px;
+}
